@@ -11,8 +11,18 @@ public class CameraController : MonoBehaviour {
     void FixedUpdate()
     {
         offset.z = -10;
-        offset.x = 4;
-        Vector3 desiredPosition = target.position + offset;
+        offset.x = 5;
+        Vector3 desiredPosition;
+
+        if (target.position.y < -10)
+        {
+            desiredPosition = target.position + offset;
+            desiredPosition.y = -10;
+        }
+        else {
+            desiredPosition = target.position + offset;
+        }
+
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smothSpeed); 
 
 
