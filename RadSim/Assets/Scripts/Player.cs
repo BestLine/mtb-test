@@ -1,14 +1,14 @@
 ﻿using UnityEngine;
 
-public class Player : MonoBehaviour {
+public class Player : MonoBehaviour
+{
 
     public Rigidbody2D rb;
 
     void Update()
     {
         if (Input.GetButtonDown("Start"))
-        {
-            rb.bodyType = RigidbodyType2D.Dynamic; 
-        }   
+            rb.bodyType = RigidbodyType2D.Dynamic;
+
     }
 }

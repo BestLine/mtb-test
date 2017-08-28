@@ -21,29 +21,269 @@ Platform assembly: D:\Unity\proj\RadSim\mtb-test\RadSim\BD\MtbSim_Data\Managed\U
 Loading D:\Unity\proj\RadSim\mtb-test\RadSim\BD\MtbSim_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: D:\Unity\proj\RadSim\mtb-test\RadSim\BD\MtbSim_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Unity\proj\RadSim\mtb-test\RadSim\BD\MtbSim_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.031 seconds
+- Completed reload, in  0.032 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.750571 ms
+UnloadTime: 1.641198 ms
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.929570 ms
+UnloadTime: 6.852348 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 701.
-Total: 0.416158 ms (FindLiveObjects: 0.085635 ms CreateObjectMapping: 0.015324 ms MarkObjects: 0.302278 ms  DeleteObjects: 0.012319 ms)
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.425774 ms (FindLiveObjects: 0.051381 ms CreateObjectMapping: 0.014723 ms MarkObjects: 0.330523 ms  DeleteObjects: 0.028545 ms)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.999382 ms
+UnloadTime: 1.011401 ms
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 699.
-Total: 0.336833 ms (FindLiveObjects: 0.028545 ms CreateObjectMapping: 0.014122 ms MarkObjects: 0.283048 ms  DeleteObjects: 0.010216 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.254502 ms (FindLiveObjects: 0.018028 ms CreateObjectMapping: 0.012619 ms MarkObjects: 0.218445 ms  DeleteObjects: 0.005108 ms)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
+
+Scene 'mainLevel' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 141)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.030631 ms
+UnloadTime: 0.544762 ms
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 699.
-Total: 0.329621 ms (FindLiveObjects: 0.028244 ms CreateObjectMapping: 0.013220 ms MarkObjects: 0.277639 ms  DeleteObjects: 0.009615 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.248192 ms (FindLiveObjects: 0.018329 ms CreateObjectMapping: 0.012019 ms MarkObjects: 0.212436 ms  DeleteObjects: 0.004507 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1998 -> priority: 1 
-  Thread -> id: f8c -> priority: 1 
+  Thread -> id: 15f8 -> priority: 1 
+  Thread -> id: 27b4 -> priority: 1 

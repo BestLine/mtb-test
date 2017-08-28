@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour {
 
-    public Transform transform;
+    public new Transform transform;
     public Text text;
     int score;
 
